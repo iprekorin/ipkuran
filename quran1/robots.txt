@@ -1,0 +1,14 @@
+# Quran Studio — robots.txt
+# https://quranstudio.app
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://quranstudio.app/sitemap.xml
+
+# Crawl-delay suggestion
+Crawl-delay: 1
+
+# Disallow admin or private areas (none currently)
+# Disallow: /admin/

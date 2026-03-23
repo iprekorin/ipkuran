@@ -1,0 +1,28 @@
+{
+  "name": "Quran Studio",
+  "short_name": "Quran",
+  "description": "Read, listen and explore the Holy Quran with translations and audio recitations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060e0a",
+  "theme_color": "#0a2018",
+  "orientation": "portrait-primary",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "lang": "en",
+  "dir": "ltr"
+}
